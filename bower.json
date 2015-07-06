@@ -17,9 +17,9 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~2.1.0",
-    "underscore": "~1.6.0",
-    "chai": "~1.9.1",
-    "mocha": "~1.18.2"
+    "jquery": "~2.1.4",
+    "underscore": "~1.8.3",
+    "chai": "~2.1.0",
+    "mocha": "~2.2.5"
   }
 }
